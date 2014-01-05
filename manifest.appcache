@@ -1,0 +1,21 @@
+CACHE MANIFEST
+# ikxYsk00DmQdX15ydb8h1HYqiXY=
+
+CACHE:
+css/app.css
+fonts/glyphicons-halflings-regular.eot
+fonts/glyphicons-halflings-regular.svg
+fonts/glyphicons-halflings-regular.ttf
+fonts/glyphicons-halflings-regular.woff
+img/icon-128.png
+img/icon-16.png
+img/icon-48.png
+index.html
+js/app.js
+manifest.webapp
+
+# catch-all for anything else
+NETWORK:
+*
+http://*
+https://*
